@@ -4,16 +4,18 @@
 
 <style>
   nav {
-    background-color: red;
+    background-color: #3071e4;
     color: white;
     width: 100%;
     height: 40px;
+    text-align: center;
+    margin: 0 0 10px 0;
   }
   h1 {
     color: white;
   }
 </style>
 
-<nav class="container">
+<nav>
   <h1>{title}</h1>
 </nav>
